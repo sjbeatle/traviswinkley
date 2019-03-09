@@ -15,11 +15,13 @@
   padding: 0.25rem;
   font-weight: normal;
   color: white;
+  background: rgba(black, 0.75);
   text-align: center;
 
   @media (min-width: 860px) {
     font-size: 2.5rem;
     position: relative;
+    background: none;
     text-align: left;
     margin: 2rem 0 4rem 1rem;
   }
