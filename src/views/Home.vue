@@ -16,8 +16,8 @@ import Footer from '@/components/Footer.vue';
   components: {
     Heading,
     Welcome,
-    Footer
-  }
+    Footer,
+  },
 })
 export default class Home extends Vue {}
 </script>
