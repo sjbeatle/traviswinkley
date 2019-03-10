@@ -17,7 +17,10 @@
 
     <p>
       <span class="welcome__icon"><i class="fas fa-comments"></i></span>
-      If you’d like to contact me for booking, please email me at <a href="mailto:traviswinkley@hotmail.com">traviswinkley@hotmail.com</a> or call <a href="tel:1-860-575-3119">1-860-575-3119</a>.
+      If you’d like to contact me for booking, please email me at
+      <a href="mailto:traviswinkley@hotmail.com">traviswinkley@hotmail.com</a>
+      or call
+      <a href="tel:1-860-575-3119">1-860-575-3119</a>.
     </p>
   </div>
 </template>
