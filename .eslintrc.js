@@ -15,8 +15,4 @@ module.exports = {
   parserOptions: {
     parser: '@typescript-eslint/parser',
   },
-  excludedFiles: [
-    "./dist",
-    "./node_modules",
-  ],
 };
